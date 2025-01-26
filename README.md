@@ -1,4 +1,4 @@
-# PASER: Post-training Data Selection for Efficient Pruned Large Language Model Recovery
+# PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
 
 ## Installation
 
