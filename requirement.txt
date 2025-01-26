@@ -1,0 +1,40 @@
+# Core dependencies
+torch>=1.9.0
+transformers>=4.18.0
+datasets>=2.0.0
+scikit-learn>=0.24.0
+numpy>=1.20.0
+tqdm>=4.62.0
+
+# For PASER algorithm
+sentence-transformers>=2.0.0
+networkx>=2.6.0
+rake-nltk>=1.0.6
+
+# For logging and experiment tracking
+wandb>=0.12.0
+
+# For evaluation
+lm-eval @ git+https://github.com/EleutherAI/lm-evaluation-harness.git
+
+# Additional utilities
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: for distributed training
+torch-distributed>=0.0.1
+
+# Optional: for faster tokenization
+tokenizers>=0.10.3
+
+# Optional: for notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Testing
+pytest>=6.2.5
+
+# Linting and formatting
+black>=21.9b0
+flake8>=3.9.0
+isort>=5.9.0
