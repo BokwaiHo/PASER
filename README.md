@@ -1,10 +1,16 @@
-# PASER: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
+# PASER <img src="Figures/paser_icon.jpeg" alt="PASER Icon" style="width: 1em; height: 1em;">  <!-- Adjusted icon size -->: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
+
+*This icon, created with [Adobe Express](https://www.adobe.com/express/), symbolizes the Almighty Warrior LLaMA, indicating that our proposed PASER method can recover the pruned LLaMA models to full-capacity large language models.*
+
+## Framework
+![Framework](Figures/overall_framework_0119.png)
+The overall framework of PASER is shown above for facilitating understanding.
 
 ## Installation
 
 1. Create and activate an Anaconda virtual environment:
    ```bash
-   conda create -n paser_env python=3.8
+   conda create -n paser_env python=3v.8
    conda activate paser_env
    ```
 
