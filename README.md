@@ -1,6 +1,6 @@
 # PASER <img src="Figures/paser_icon.jpeg" alt="PASER Icon" style="width: 1em; height: 1em;">  <!-- Adjusted icon size -->: Post-Training Data Selection for Efficient Pruned Large Language Model Recovery
 
-*This icon, created with [Adobe Express](https://www.adobe.com/express/), symbolizes the Almighty Warrior LLaMA, indicating that our proposed PASER method can recover the pruned LLaMA models to full-capacity large language models.*
+*This icon, created with [Adobe Express](https://www.adobe.com/express/), symbolizes the Almighty Warrior LLaMA, indicating that our proposed PASER method can recover the pruned LLaMA models to full-capability large language models.*
 
 ## Framework
 ![Framework](Figures/overall_framework_0119.png)
