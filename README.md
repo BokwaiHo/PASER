@@ -3,7 +3,7 @@
 *This icon, created with [Adobe Express](https://www.adobe.com/express/), symbolizes the Almighty Warrior LLaMA, indicating that our proposed PASER method can recover the pruned LLaMA models to full-capability large language models.*
 
 ## Framework
-![Framework](Figures/overall_framework_0119.png)
+![Framework](Figures/overall_framework_0127.png)
 The overall framework of PASER is shown above for facilitating understanding.
 
 ## Installation
